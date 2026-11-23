@@ -1,0 +1,25 @@
+{
+  "name": "mt-1_fsd_lab_set02_-le-vibhanshumishra_0016-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VIBHANSHUMISHRA-67/MT-1_FSD_LAB_SET02_-LE-VIBHANSHUMISHRA_0016-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/VIBHANSHUMISHRA-67/MT-1_FSD_LAB_SET02_-LE-VIBHANSHUMISHRA_0016-/issues"
+  },
+  "homepage": "https://github.com/VIBHANSHUMISHRA-67/MT-1_FSD_LAB_SET02_-LE-VIBHANSHUMISHRA_0016-#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
